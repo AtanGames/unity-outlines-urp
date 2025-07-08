@@ -1,4 +1,4 @@
 # unity-outlines-urp
 Unity screen space outlines for the Universal Render Pipeline, written with rendergraph
 
-![Diagram](images.png)
+![Diagram](image.png)
